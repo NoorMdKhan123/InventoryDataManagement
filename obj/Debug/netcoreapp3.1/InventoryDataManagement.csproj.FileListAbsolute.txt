@@ -1,0 +1,16 @@
+C:\Users\md048\source\repos\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.exe
+C:\Users\md048\source\repos\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.deps.json
+C:\Users\md048\source\repos\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.runtimeconfig.json
+C:\Users\md048\source\repos\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.runtimeconfig.dev.json
+C:\Users\md048\source\repos\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.dll
+C:\Users\md048\source\repos\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.pdb
+C:\Users\md048\source\repos\InventoryDataManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\md048\source\repos\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.AssemblyInfo.cs
+C:\Users\md048\source\repos\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.csproj.CopyComplete
+C:\Users\md048\source\repos\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.dll
+C:\Users\md048\source\repos\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.pdb
+C:\Users\md048\source\repos\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.genruntimeconfig.cache
