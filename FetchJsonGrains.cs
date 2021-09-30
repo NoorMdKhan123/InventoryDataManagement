@@ -5,11 +5,13 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
+
+
 namespace InventoryDataManagement
 {
-    class FetchJsonForRice
+    class FetchJsonGrains
     {
-        public Rice Read(string Path)
+        public Grains Read(string Path)
         {
             using (StreamReader file = new StreamReader(Path))
             {
@@ -17,12 +19,9 @@ namespace InventoryDataManagement
                 {
                     string json = file.ReadToEnd();
 
-                    var searializerSettings = new JsonSerializerSettings
-                    {
-                        ContractResolver = new CamelCasePropertyNamesContractResolver()
-                    };
-                    Console.WriteLine(json);
-                    return JsonConvert.DeserializeObject<Rice>(json, searializerSettings);
+                    
+                    
+                    return JsonConvert.DeserializeObject<Grains>(json);
                 }
                 catch (Exception e)
                 {

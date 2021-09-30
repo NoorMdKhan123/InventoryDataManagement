@@ -4,10 +4,12 @@ using System.Text;
 
 namespace InventoryDataManagement
 {
-    class Rice
+    class TypesOfPulses
     {
         public string name;
         public string weight;
         public int Price;
+
+
     }
 }

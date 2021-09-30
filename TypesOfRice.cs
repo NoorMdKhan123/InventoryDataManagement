@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InventoryDataManagement
 {
-    class Pulses
+    class TypesOfRice
     {
         public string name;
         public string weight;
