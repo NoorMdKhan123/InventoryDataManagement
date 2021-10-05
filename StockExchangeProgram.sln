@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockExchangeProgram", "StockExchangeProgram.csproj", "{E6D9E5D8-982F-4E1D-AC6F-411CBCD8B1E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryDataManagement", "..\InventoryDataManagement\InventoryDataManagement.csproj", "{89D8C104-B5AD-4B60-BFB0-77CC268CA4E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D9E5D8-982F-4E1D-AC6F-411CBCD8B1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D9E5D8-982F-4E1D-AC6F-411CBCD8B1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D9E5D8-982F-4E1D-AC6F-411CBCD8B1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D9E5D8-982F-4E1D-AC6F-411CBCD8B1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D8C104-B5AD-4B60-BFB0-77CC268CA4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D8C104-B5AD-4B60-BFB0-77CC268CA4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D8C104-B5AD-4B60-BFB0-77CC268CA4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D8C104-B5AD-4B60-BFB0-77CC268CA4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F1B315C-3E85-4533-9225-9C1B8845025F}
+	EndGlobalSection
+EndGlobal

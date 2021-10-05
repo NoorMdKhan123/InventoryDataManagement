@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jhr7YsfW6xh4IfB9VBuQv66P2YtvsO+Ggom6Rk3DDWMyXt+rXoUEKwrluRI0vwKHcbQlFfrHmNijC51mz6/HSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\md048\\source\\repos\\StockExchangeProgram\\StockExchangeProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\md048\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

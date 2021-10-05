@@ -1,0 +1,16 @@
+C:\Users\md048\source\repos\StockExchangeProgram\bin\Debug\netcoreapp3.1\StockExchangeProgram.exe
+C:\Users\md048\source\repos\StockExchangeProgram\bin\Debug\netcoreapp3.1\StockExchangeProgram.deps.json
+C:\Users\md048\source\repos\StockExchangeProgram\bin\Debug\netcoreapp3.1\StockExchangeProgram.runtimeconfig.json
+C:\Users\md048\source\repos\StockExchangeProgram\bin\Debug\netcoreapp3.1\StockExchangeProgram.runtimeconfig.dev.json
+C:\Users\md048\source\repos\StockExchangeProgram\bin\Debug\netcoreapp3.1\StockExchangeProgram.dll
+C:\Users\md048\source\repos\StockExchangeProgram\bin\Debug\netcoreapp3.1\StockExchangeProgram.pdb
+C:\Users\md048\source\repos\StockExchangeProgram\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\md048\source\repos\StockExchangeProgram\obj\Debug\netcoreapp3.1\StockExchangeProgram.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\StockExchangeProgram\obj\Debug\netcoreapp3.1\StockExchangeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\StockExchangeProgram\obj\Debug\netcoreapp3.1\StockExchangeProgram.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\StockExchangeProgram\obj\Debug\netcoreapp3.1\StockExchangeProgram.AssemblyInfo.cs
+C:\Users\md048\source\repos\StockExchangeProgram\obj\Debug\netcoreapp3.1\StockExchangeProgram.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\StockExchangeProgram\obj\Debug\netcoreapp3.1\StockExchangeProgram.csproj.CopyComplete
+C:\Users\md048\source\repos\StockExchangeProgram\obj\Debug\netcoreapp3.1\StockExchangeProgram.dll
+C:\Users\md048\source\repos\StockExchangeProgram\obj\Debug\netcoreapp3.1\StockExchangeProgram.pdb
+C:\Users\md048\source\repos\StockExchangeProgram\obj\Debug\netcoreapp3.1\StockExchangeProgram.genruntimeconfig.cache
