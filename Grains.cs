@@ -9,6 +9,8 @@ namespace InventoryDataManagement
         public List<TypesOfRice> TypesOfRice;
         public List<TypesOfPulses> TypesOfPulses;
         public List<TypesOfWheats> TypesOfWheats;
+       
+
 
     }
 }
