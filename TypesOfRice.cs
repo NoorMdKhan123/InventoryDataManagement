@@ -7,7 +7,7 @@ namespace InventoryDataManagement
     class TypesOfRice
     {
         public string name;
-        public string weight;
+        public int weight;
         public int Price;
     }
 }
